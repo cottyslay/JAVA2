@@ -1,0 +1,56 @@
+.river-plate-theme {
+    background-color: #fff;
+  }
+  
+  .river-plate-theme input[type="number"] {
+    padding: 5px;
+    width: 100px;
+  }
+  
+  .river-plate-theme button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #d51a31;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .river-plate-theme #result {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #fff, #d51a1a);
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    width: 100px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #d51a1a;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  
+  
